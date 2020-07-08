@@ -1,2 +1,2 @@
-# react-apps
-Building Applications With React
+# indecision-app
+Building a Indecision Application With React
